@@ -16,9 +16,7 @@ Designed for easy manufacturing via JLCPCB using mostly "Basic" library parts to
 ## 📺 Project Video
 Watch the full design and ordering process here:
 
-[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
-
-*(Link will be updated once the video is live)*
+[![Watch the Video](https://img.youtube.com/vi/XLY1TtWzttY/0.jpg)](https://www.youtube.com/watch?v=XLY1TtWzttY)
 
 ---
 
@@ -69,5 +67,8 @@ This is an open-source hardware project. While the design has been checked again
 
 Created by [**ar_titumir**](https://github.com/ar-titumir)  
 If this tool helps your productivity, please give a ⭐ on GitHub. 
+
 https://github.com/ar-titumir 
+
+
 **Date:** January 2026
