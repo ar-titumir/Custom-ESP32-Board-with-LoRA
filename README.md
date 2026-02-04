@@ -8,7 +8,8 @@ A custom-designed, compact PCB for Meshtastic LoRa networking. This board integr
 
 Designed for easy manufacturing via JLCPCB using mostly "Basic" library parts to minimize assembly costs.
 
-![PCB Preview](PCB photo.svg)
+![PCB Preview](https://github.com/user-attachments/assets/fb45a827-2ac1-4804-96d0-5a5ca39ca618)
+
 
 ---
 
