@@ -9,7 +9,6 @@ A custom-designed, compact PCB for Meshtastic LoRa networking. This board integr
 Designed for easy manufacturing via JLCPCB using mostly "Basic" library parts to minimize assembly costs.
 
 ![PCB Preview](PCB photo.svg)
-*(Replace `image_of_pcb.png` with the actual path to your image file)*
 
 ---
 
@@ -65,5 +64,9 @@ This is an open-source hardware project. While the design has been checked again
 
 ---
 
-**Author:** [Your Name]
+## 📌 Author
+
+Created by [**ar_titumir**](https://github.com/ar-titumir)  
+If this tool helps your productivity, please give a ⭐ on GitHub. 
+https://github.com/ar-titumir 
 **Date:** January 2026
